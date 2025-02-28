@@ -54,3 +54,22 @@ GET https://api.github.com/repos/{username}/{repo}/commits
 Pull Requests and Issues are welcome!
 
 # GitHubApi567
+## 📦 Deliverables
+1. **GitHub Repository URL**:  
+   - [GitHubApi567 Repository](https://github.com/MeiXu2910/GitHubApi567)
+
+2. **Implemented Features**:
+   - Fetching user repositories from GitHub.
+   - Counting commits for each repository.
+   - Displaying repository names with commit counts.
+
+3. **Automated Testing Integration**:
+   - GitHub Actions & CircleCI status badges.
+   - `unittest` framework for validation.
+   - Ensures correct API responses and handles errors.
+
+4. **Development Reflections**:
+   - Thought process behind designing testable functions.
+   - Key considerations and challenges faced during testing.
+   - Importance of integrating CI/CD for reliability.
+
