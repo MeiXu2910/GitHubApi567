@@ -34,11 +34,11 @@ python -m unittest test_github_api.py
 ```
 
 ## ✅ CI/CD Status
-### **GitHub Actions**
-![GitHub Actions Status](https://github.com/MeiXu2910/GitHubApi567/actions/workflows/python-app.yml/badge.svg)
+### **GitHub Actions - HW04a_Mocking**
+![GitHub Actions Status](https://github.com/MeiXu2910/GitHubApi567/actions/workflows/python-app.yml/badge.svg?branch=HW04a_Mocking)
 
-### **CircleCI**
-[![CircleCI](https://circleci.com/gh/MeiXu2910/GitHubApi567.svg?style=svg)](https://circleci.com/gh/MeiXu2910/GitHubApi567)
+### **CircleCI - HW04a_Mocking**
+[![CircleCI](https://circleci.com/gh/MeiXu2910/GitHubApi567/tree/HW04a_Mocking.svg?style=svg)](https://circleci.com/gh/MeiXu2910/GitHubApi567/tree/HW04a_Mocking)
 
 ## 📄 API Reference
 ### **Retrieve all repositories of a user**
